@@ -12,8 +12,8 @@ Primer proyecto en GitHub para escuela de cógido, PILARES
 **Hola de nuevo**
 _Hooolaa_
 
--Lista
--Elemento 2
+- Lista
+- Elemento 2
 
 1. Elemento 3
 2. Elemento 4
