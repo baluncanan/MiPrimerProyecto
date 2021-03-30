@@ -8,7 +8,7 @@ Primer proyecto en GitHub para escuela de cógido, PILARES
 ##### Título
 
 
-* hola *
+*hola*
 **Hola de nuevo**
 _Hooolaa_
 
